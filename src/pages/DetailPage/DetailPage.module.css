@@ -1,0 +1,9 @@
+.back_button {
+  border: 1px solid #2629db;
+  border-radius: 25px;
+  height: 40px;
+  padding: 0 1rem;
+  font-size: 16px;
+  background-color: #2629db;
+  color: #ffffff;
+}
